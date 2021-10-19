@@ -1,4 +1,4 @@
 # Veebilehed
 Minu lehed
 
-Sissejuhatus erialasse tehtud asjad arvatavasi.
+Sissejuhatus erialasse tehtud asjad arvatavasti.
